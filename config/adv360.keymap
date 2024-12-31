@@ -18,6 +18,13 @@
 #include <dt-bindings/zmk/rgb.h>
 #include <dt-bindings/zmk/backlight.h>
 
+
+/* Custom Device-tree */
+&sk {
+  release-after-ms = <125>;
+  quick-release;
+};
+
 / {
   behaviors {
     #include "macros.dtsi"
