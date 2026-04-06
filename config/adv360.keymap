@@ -32,7 +32,7 @@
 &kp TAB    &kp Q         &kp W     &kp E    &kp R           &kp T   &kp DEL                                                  &kp PG_DN  &kp Y   &kp U      &kp I      &kp O     &kp P     &kp EQUAL
 &kp ESC    &kp A         &kp S     &kp D    &kp F           &kp G   &kp BSPC  &kp SPACE  &tog 1         &kp LGUI   &kp RGUI  &kp ENTER  &kp H   &kp J      &kp K      &kp L     &kp SEMI  &kp SQT
 &kp LSHFT  &kp Z         &kp X     &kp C    &kp V           &kp B                        &kp ENTER      &kp RALT                        &kp N   &kp M      &kp COMMA  &kp DOT   &kp FSLH  &kp RSHFT
-&mo 3      &kp CAPSLOCK  &kp HOME  &kp END  &kp UNDERSCORE          &kp LGUI  &kp LALT   &mo 1          &kp RCTRL  &sl 2     &kp SPACE          &kp MINUS  &trans     &kp LBKT  &kp RBKT  &kp RCTRL
+&mo 3      &kp CAPSLOCK  &kp HOME  &kp END  &kp UNDERSCORE          &kp LGUI  &kp LALT   &mo 1          &kp RCTRL  &sl 2     &kp SPACE          &kp MINUS  &trans     &kp LBKT  &kp RBKT  &kp LEFT_CONTROL
             >;
         };
 
@@ -53,7 +53,7 @@
 &kp F1  &kp F2  &kp F3           &kp F4                &kp F5                 &kp F6     &tog 1                                      &mo 3   &kp F7  &kp F8  &kp F9  &kp F10  &kp F11  &kp F12
 &trans  &trans  &trans           &kp LEFT_BRACE        &kp RIGHT_BRACE        &kp TILDE  &none                                       &none   &trans  &trans  &trans  &trans   &trans   &trans
 &trans  &trans  &kp EXCLAMATION  &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp GRAVE  &none   &trans  &trans      &trans  &trans  &none   &trans  &trans  &trans  &trans   &trans   &trans
-&trans  &trans  &trans           &kp LBKT              &kp RBKT               &kp BSLH                   &trans      &trans                  &trans  &trans  &trans  &trans   &trans   &trans
+&trans  &trans  &trans           &kp LBKT              &kp RBKT               &kp PIPE                   &trans      &trans                  &trans  &trans  &trans  &trans   &trans   &trans
 &trans  &trans  &trans           &trans                &trans                            &trans  &trans  &trans      &trans  &trans  &trans          &trans  &trans  &trans   &trans   &trans
             >;
         };
